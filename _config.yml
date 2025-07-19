@@ -8,7 +8,8 @@
 ############################
 # --- Required options --- #
 ############################
-
+url  = "https://dash-anirudh.github.io"
+baseurl = ""
 # Name of website
 title: My website
 
@@ -22,7 +23,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://dash-anirudh.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
