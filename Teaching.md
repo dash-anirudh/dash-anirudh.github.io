@@ -4,12 +4,11 @@ title: Teaching
 url: teaching
 ---
 
-I would like to thank all my professors who trusted me enough to allow me to serve as a Teaching Assistant for the courses listed below. Broadly speaking, my roles and responsibilities included formulating thought‑provoking, insightful assignments, quizzes, and examinations, preparing their respective solutions, and evaluating answer scripts. I was lucky enough to conduct a full-fledged lecture on the odd occasion.  
-I TA'd for:
+I would like to thank all my professors who trusted me enough to allow me to serve as a Teaching Assistant for the courses listed below. Broadly speaking, my roles and responsibilities included formulating thought‑provoking, insightful assignments, quizzes, and examinations, preparing their respective solutions, and evaluating answer scripts. I was lucky enough to conduct a full-fledged lecture on the odd occasion. At IITH, I TA'd for:
 
 1. **Differential Equations & Transform Techniques** (Spring '25)  
    *Instructor: [Dr. Seshadri Sravan Kumar V.](https://people.iith.ac.in/seshadri/)*  
-   *Course [website](https://people.iith.ac.in/seshadri/Courses/DETT/DETT-2025.html)*  
+   *Course website: [DETT2025](https://people.iith.ac.in/seshadri/Courses/DETT/DETT-2025.html)*  
    *Teaching Assistant*  
    *Other TAs: Satvik Bejugam*
 
@@ -25,13 +24,13 @@ I TA'd for:
 
 4. **Convex Optimization** (Spring '24)  
    *Instructor: [Dr. Seshadri Sravan Kumar V.](https://people.iith.ac.in/seshadri/)*  
-   *Course [website](https://people.iith.ac.in/seshadri/Courses/ConvexOpt/CO-2024.html)*  
+   *Course website: [CO2024](https://people.iith.ac.in/seshadri/Courses/ConvexOpt/CO-2024.html)*  
    *Teaching Assistant*  
    *Other TAs: Beaula Mahima, Divyanshu Bhatt, Kaustubh Gupta*
 
 5. **Matrix Theory** (Fall '23)  
    *Instructor: [Dr. Seshadri Sravan Kumar V.](https://people.iith.ac.in/seshadri/)*  
-   *Course [website](https://people.iith.ac.in/seshadri/Courses/MatrixTheory/MT-2023.html)*  
+   *Course website: [MT2023](https://people.iith.ac.in/seshadri/Courses/MatrixTheory/MT-2023.html)*  
    *Head Teaching Assistant*  
    *Other TAs: Divyanshu Bhatt, Hitesh Donepudi, Gaurang Dahad, Pratik Nikam, Satvik Bejugam*
 
