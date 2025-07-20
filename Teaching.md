@@ -1,3 +1,9 @@
+---
+layout: page
+title: Teaching
+url: teaching
+---
+
 I would like to thank all my professors who trusted me enough to allow me to serve as a Teaching Assistant for the courses listed below. 
 Broadly speaking, my roles and responsibilities included formulating thought‑provoking, insightful assignments, quizzes, and examinations,
 preparing their respective solutions, and evaluating answer scripts. I was lucky enough to conduct a full-fledged lecture on the odd occasion. 
