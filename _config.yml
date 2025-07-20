@@ -1,9 +1,9 @@
 # Setup
 title:               Anirudh Dash
 tagline:             "what's in a name?"
-description:         ''
+description:         "Bishop's"
 url:                 https://dash-anirudh.github.io
-baseurl:             "Bishop's"
+baseurl:             ""
 paginate:            5
 permalink:           pretty
 
