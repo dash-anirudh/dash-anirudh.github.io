@@ -21,15 +21,16 @@ title: Publications
 
 ### Under Review
 
-1. **Exploring the Limitations of Structured Orthogonal Dictionary Learning**
+1. **Exploring the Limitations of Structured Orthogonal Dictionary Learning**  
    Please note that the arxiv article for the same hasn't been updated and is currently an older version.
 
 ### IEEE Competitions
 
-1. **E-Waste Conversion Efficiency Tracking System for Landfill Creation to Optimize Resource Allocation for Recycling**
-   *Anirudh Dash*
-   *Final, Student Poster Contest, 11<sup>th</sup> IEEE Conference on Technologies for Sustainability (SusTech 2024)*
+1. **E-Waste Conversion Efficiency Tracking System for Landfill Creation to Optimize Resource Allocation for Recycling**  
+   *Anirudh Dash*  
+   *Final, Student Poster Contest, 11<sup>th</sup> IEEE Conference on Technologies for Sustainability (SusTech 2024)*  
    [IEEE](https://ieee-sustech.org/wp-content/uploads/sites/261/2024/03/IEEE_SusTech2024-Anirudh-Dash.pdf)
+
 
 
 
