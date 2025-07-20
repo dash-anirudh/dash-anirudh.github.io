@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: post
 title: Introducing Lanyon
@@ -32,6 +34,8 @@ In addition to the features of Poole, Lanyon adds the following:
 Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
 ### Download
+
+-->
 
 Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
 
