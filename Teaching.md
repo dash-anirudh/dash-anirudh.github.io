@@ -41,4 +41,14 @@ I would like to thank all my professors who trusted me enough to allow me to ser
 
 ---
 
+At CMU I'm currently serving as a TA for:
+
+1. **Introduction to Machine Learning for Engineers** (Spring '26)  
+   *Instructors: [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), [Dr. Carlee Joe Wong](https://engineering.cmu.edu/directory/bios/joe-wong-carlee.html)*  
+   *Course website: [18661]()*  
+   *Teaching Assistant*  
+   *Other TAs: .*
+
+---
+
 The details for some of the work we did as TAs can be found on my [GitHub](https://github.com/dash-anirudh). Once again, a big thank you to all the students!
