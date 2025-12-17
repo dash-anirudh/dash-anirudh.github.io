@@ -8,11 +8,13 @@ Please find some of the projects that I've completed below. Some of them are a r
 
 ## Machine Learning
 
-1. **Sparse Orthogonal Initialization Techniques for Vision Transformers**
+1. **Kilonova: A pair of LLM-judges can improve output quality**
 
-2. **Face Editing and Attribute Manipulation**
+2. **Sparse Orthogonal Initialization Techniques for Vision Transformers**
 
-3. **Supervised Speech Enhancement using Transformers**
+3. **Face Editing and Attribute Manipulation**
+
+4. **Supervised Speech Enhancement using Transformers**
 
 ## Signal Processing, Compressed Sensing
 
