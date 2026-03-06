@@ -45,9 +45,9 @@ At CMU I'm currently serving as a TA for:
 
 1. **Introduction to Machine Learning for Engineers** (Spring '26)  
    *Instructors: [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), [Dr. Carlee Joe Wong](https://engineering.cmu.edu/directory/bios/joe-wong-carlee.html)*  
-   *Course website: [18661]()*  
+   *Course website: [18661](https://www.andrew.cmu.edu/course/18-661/)*  
    *Teaching Assistant*  
-   *Other TAs: .*
+   *Other TAs: Anupam Nayak, Hanqing Yang, Blessed Guda, Brandone Fonya, Candide Giramata, Gilbert Urinzwenimana, Victor Miene*
 
 ---
 
