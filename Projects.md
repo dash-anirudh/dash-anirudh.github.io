@@ -8,7 +8,7 @@ Please find some of the projects that I've completed below. Some of them are a r
 
 ## Machine Learning
 
-1. **sRLM: small Recursive Language Models**
+1. [**sRLM: small Recursive Language Models**](https://github.com/dash-anirudh/Small-Recursive-Language-Models)
 
 2. **Kilonova: A pair of LLM-judges can improve output quality**
 
@@ -16,11 +16,11 @@ Please find some of the projects that I've completed below. Some of them are a r
 
 4. **Face Editing and Attribute Manipulation**
 
-5. **Supervised Speech Enhancement using Transformers**
+5. [**Supervised Speech Enhancement using Transformers**](https://github.com/dash-anirudh/Supervised-Speech-Enhancement-Using-Transformers)
 
 ## Signal Processing, Compressed Sensing
 
-1. **Column Bound for Orthogonal Matrix Factorization**
+1. [**Column Bound for Orthogonal Matrix Factorization**](https://arxiv.org/abs/2405.12858)
 
 2. **An In-Depth Analysis of Secret Image Sharing Schemes**
 
@@ -28,7 +28,7 @@ Please find some of the projects that I've completed below. Some of them are a r
 
 ## Electrical and Computer Systems
 
-1. **RISC-V Simulator**
+1. [**RISC-V Simulator**](https://github.com/dash-anirudh/RISC-V_Simulator)
 
 2. **Photoplethysmogram**
 
