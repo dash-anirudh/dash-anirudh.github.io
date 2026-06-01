@@ -41,7 +41,7 @@ I would like to thank all my professors who trusted me enough to allow me to ser
 
 ---
 
-At CMU I've served as a TA for:
+At CMU, I've served as a TA for:
 
 1. **Introduction to Machine Learning for Engineers** (Spring '26)  
    *Instructors: [Dr. Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/), [Dr. Carlee Joe Wong](https://engineering.cmu.edu/directory/bios/joe-wong-carlee.html)*  
